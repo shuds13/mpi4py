@@ -2,8 +2,8 @@
 MPI for Python
 ==============
 
-.. image::  https://travis-ci.org/mpi4py/mpi4py.svg?branch=master
-   :target: https://travis-ci.org/mpi4py/mpi4py
+.. image::  https://travis-ci.org/shuds13/mpi4py.svg?branch=master
+   :target: https://travis-ci.org/shuds13/mpi4py
 .. image::  https://circleci.com/gh/mpi4py/mpi4py.svg?style=shield
    :target: https://circleci.com/gh/mpi4py/mpi4py
 .. image::  https://ci.appveyor.com/api/projects/status/whh5xovp217h0f7n?svg=true
